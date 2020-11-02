@@ -10,8 +10,8 @@
 
 ## Pdf/Epub
 
-* PDF: (.pdfs/)
-* EPUB: (./time-as-a-friend.epub)
+* [PDF](.pdfs/)
+* [EPUB](./time-as-a-friend.epub)
 
 # 阅读说明
 
